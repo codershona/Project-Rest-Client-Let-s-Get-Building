@@ -75,7 +75,7 @@ A bing search from the command line has been created, where you can do a search 
 
 
 
-#Rest Client - Warmup (Odin Project)
+## Rest Client - Warmup (Odin Project)
 
 	* Run ruby rest_client_search.rb from commandline
 	* Enter your search
