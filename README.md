@@ -1,9 +1,7 @@
 # Project-Let-s-Get-Building
 Project: Let's Get Building
 
-#Rest-Client
-
-
+##  Rest-Client
 
 * This is a repo of a simple API request using rest-client gem for Ruby
 
